@@ -4,6 +4,6 @@
 
 <p align="center">
   <a href="https://greenarmor.pw">
-    <img src="assets/tata.gif" width="720" />
+    <img src="assets/citizen.gif" width="720" />
   </a>
 </p>
